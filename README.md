@@ -1,6 +1,6 @@
 # apriltag-guide-dog
 
-<img src="https://raw.githubusercontent.com/AprilRobotics/apriltag-imgs/master/tag36h11/tag36_11_00586.png" width=100>
+<img align="middle" src="./data/tag36_11_00586_400x400.png">
 
 This is a part of a walking robot project.
 This part performs estimation of camera frame pose relative to AprilTag and sends commands to Arduino, including number of steps to go either forward-backward or right-left to correct robot's position. 
